@@ -11,7 +11,7 @@ import numpy as np
 import pydeck as pdk
 import plotly.express as px
 
-URL = (r"C:\Users\DELL PC\Desktop\Streamlit\Motor_Vehicle_Collisions_-_Crashes.csv")
+URL = (r"\Motor_Vehicle_Collisions_-_Crashes.csv")
 
 
 st.title("Motor Vehicle Collisions in NYC")
